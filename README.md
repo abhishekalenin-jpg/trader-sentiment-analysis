@@ -45,7 +45,7 @@ pip install -r requirements.txt
 2. Open the notebook:
 
 ```
-Trader_Sentiment_Analysis.ipynb
+Trader_Performance_Analysis.ipynb
 ```
 
 3. Run all cells.
