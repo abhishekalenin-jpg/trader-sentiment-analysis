@@ -1,2 +1,0 @@
-# trader-sentiment-analysis
-Analysis of Hyperliquid trader performance using Bitcoin Fear &amp; Greed sentiment.
